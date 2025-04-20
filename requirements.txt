@@ -1,0 +1,12 @@
+beautifulsoup4
+langchain-community
+langgraph
+python-dotenv
+langchain-openai
+nest_asyncio
+playwright
+asyncio 
+langchain
+streamlit
+python-slugify
+playwright

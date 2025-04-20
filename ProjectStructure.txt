@@ -1,0 +1,10 @@
+CBC_editorial_assistance/
+|---app.py 
+|---embadings.py 
+|---generator.py
+|---data/
+|    |-- ***.json # you will need to place JSON here.
+|
+|--.env 
+|---requirements.txt 
+|__README.md 

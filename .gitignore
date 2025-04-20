@@ -1,0 +1,7 @@
+cbc-index/
+__pycache__/
+*.pyc 
+.env
+env
+*.log
+  
