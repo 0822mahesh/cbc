@@ -26,6 +26,6 @@ Vectoredatabase = Faiss
 
 ## Sample Test conversion
 
-![Policy Question]("policy Question.png")
-![Headline Suggision]("headline_suggision.png")
-![Tweetsummary]("tweet_summary.png")
+![Policy Question!]("policy Question.png")
+![Headline Suggision!]("headline_suggision.png")
+![Tweetsummary!]("tweet_summary.png")
